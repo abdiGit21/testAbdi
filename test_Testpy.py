@@ -4,6 +4,7 @@ def helloName(name):
 def testHello():
     assert helloName('abdi') == 'Hello abdi'
     print("Tout est bon")
+    print("ok c'est noté")
 
 
 
